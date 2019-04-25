@@ -9,6 +9,7 @@
     margin-right: 15px;
     float: right;
 }
+
 body{
     background: #2b3237;
 }
@@ -31,11 +32,13 @@ body{
     border-radius: 7px;
     padding: 20px 0px;
 }
+
 .side-column{
     float: right;
     order: 2;
     width: 300px;
 }
+
 footer .siteLinks a{
     display: block;
     width: 140px;
@@ -44,12 +47,14 @@ footer .siteLinks a{
     text-align: left;
     color: rgba(255,255,255,0.5);
 }
+
 footer .siteLink{
     line-height: 20px;
     padding: 15px 10px 0;
     text-align: center;
     overflow: hidden;
 }
+
 .social-links a{
     color: #fff;
     border-radius: 50%;
@@ -72,6 +77,7 @@ footer .siteLink{
     padding: 10px;
     color: #b2b2bb;
 }
+
 .main-content{
     padding-top: 70px;  
     display: block;
@@ -96,10 +102,12 @@ h4 {
     text-align: left;
     color: #b2b2bb;
 }
+
 h6{
     padding: 10px 10px;
     color: #b2b2bb;
 }
+
 .shtout {
     float:right;
     height:25px;
@@ -134,6 +142,7 @@ h2 {
     float:right;
     margin-right:15px;
 }
+
 .btn_ans:hover {
     border-radius: 18px;
     font-weight: bold;
