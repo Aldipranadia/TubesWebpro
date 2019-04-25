@@ -49,6 +49,7 @@ footer .siteLinks a{
     text-align: left;
     color: rgba(255,255,255,0.5);
 }
+
 footer .siteLink{
     line-height: 20px;
     padding: 15px 10px 0;
@@ -105,6 +106,7 @@ h6{
     padding: 10px 10px;
     color: #b2b2bb;
 }
+
 .pageTitle{
     color: #4A4A50;
     font-weight: bold;
@@ -124,6 +126,7 @@ h6{
     width: 95%;
     margin-right: 10px;
 }
+
 </style>
 <?php foreach ($ask as $a) : ?>
 <div class="main-column">
